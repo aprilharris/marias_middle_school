@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.carousel-caption {
+  color: black !important;
+  font-weight: bold !important;
+  font-size: 25px !important;
+  text-align: center !important;
+}
+
+.carousel-item{
+   width: fit0 !important;
+   height: auto !important;
+}
+
+footer {
+ background-color: #03073f;
+  color: white; 
+}
+
+.caruselone {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.carousel-text {
+  background-color: lightslategray;
+  font-size: 50%;
+  text
+  background-opacity: 0.5;
+}
